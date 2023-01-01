@@ -16,13 +16,45 @@ This fan localization patch is for the PS Vita version of the game.
 
 #### BUGS 😔
 
-* **There is still one major bug with Kaname's route where the translations for the overnight stay events do not show up. As we were unable to fix this bug, we will be releasing scripts for the overnight stay events. The scripts will be added soon!**
+* **There is still one major bug with Kaname's route where the translations for the overnight stay events do not show up. As we were unable to fix this bug, we will be releasing scripts for the overnight stay events. The scripts can be accessed [here](https://github.com/AsahinaKyoudai/BrothersConflict/blob/c84701d25b869cf8f742c69abdc7fea68a4ed63d/Kaname_Overnight%20Stay%20Scripts_20220101.pdf).**
 * **Event names either show up in Japanese or do not show up at all. Unfortunately, translating them caused some events not to trigger.**
 
 #### QA / Error Submission
 
 * Many contributors have worked on this project throughout the years. The project was revived about two years ago, and since then, our Japanese and English proofreaders have been diligently scrubbing through all scripts to ensure an accurate and consistent translation. As such, some scripts have been heavily edited from the original translations in our patch. Our team has also translated the remainder of the Passion Pink and Brilliant Blue scripts.
-* This is a fan localization done by passionate volunteers. Although our team did a second proofread of all existing scripts and even retranslated some, we were unable to do Japanese proofreading for every single script due to bandwidth, especially for the Passion Pink scripts by Passion & Brilliance. Please be patient with us if you do spot any issues, and we hope you contribute to this patch by reporting the errors through our **Error Submission Form** *(link to be added soon)*!
+* This is a fan localization done by passionate volunteers. Although our team did a second proofread of all existing scripts and even retranslated some, we were unable to do Japanese proofreading for every single script due to bandwidth, especially for the Passion Pink scripts by Passion & Brilliance. Please be patient with us if you do spot any issues, and we hope you contribute to this patch by reporting the errors through our **Error Submission Form**!
+
+### FAQ
+
+Here is our current list of FAQ questions! We will keep adding to the FAQ list here as we get more inquiries about the project.
+
+#### What do I need to play the game?
+
+* A hacked PS Vita with sufficient storage space for the patch (~350 MB)
+* A copy of the game (**PS Vita version only**)
+* A Vita-compatible micro USB cable
+* A computer/laptop for uploading the patch
+
+#### How does the patch work?
+
+Our patch can only be played with a modded PS Vita and a copy of Brothers Conflict: Precious Baby¹. You may choose to purchase a device that is already modded, or you can follow a guide for an unmodded device, such as this PS Vita (TV) Hacks Guide or this Reddit post + guide on VitaDeploy.
+
+Please note that modding your PS Vita comes with the risk of permanently bricking your device during the process. Although rare, you should understand all risks involved before proceeding and be sure to follow all instructions exactly. Under no circumstances will Otogelib or its community be held responsible or liable in any way for any damages to your device as a result of your own actions.
+
+**Although there is a Nintendo Switch version of Brothers Conflict: Precious Baby, we will only release a patch for the PS Vita version.**
+
+*¹ Can be either physical or digital. If you are using a sd2vita memory card adapter rather than an official PS Vita memory card, you will be unable to use a physical game card.*
+
+#### Will a walkthrough be available?
+We have a detailed walkthrough that we put together for our beta testers that was a translation of a Japanese walkthrough. This is available upon request, but may have some slight differences in-game. If there is enough demand, then we may clean up this copy and release it, or we may consider created a more general guide.
+
+We highly recommend that you check out the character profiles in-game for tips on favorite foods/activities and any other brothers that you may need to build a relationship with! Juli's advice on each profile will change throughout the route as well.
+
+We highly encourage walkthroughs if anyone would like to create one in English! If anyone has any questions about routes, game mechanics, etc, then feel free to reach out to us on [Twitter](https://twitter.com/TeamAsahina)!
+
+#### Will text translations be uploaded?
+
+Not at this time. However, we may consider publishing text translations for Brilliant Blue if there is enough demand.
 
 ### Credits
 
@@ -35,9 +67,9 @@ This project could not have been possible without everyone's hard work and suppo
 **Tech Support**: [[DC]](https://ko-fi.com/0xdc00)
 
 **Special Thanks**
-- Reishiki for all of her help throughout this entire process!!! This patch release could not have been possible without her support!<br/>
-- Everyone that contributed to the project in any way over the years!<br/>
-- The otome community for your excitement, support, and patience!
+* Reishiki for all of her help throughout this entire process!!! This patch release could not have been possible without her support!<br/>
+* Everyone that contributed to the project in any way over the years!<br/>
+* The otome community for your excitement, support, and patience!
 
 If you've contributed to at least one full script and haven't been credited, then please DM us on [Twitter](https://twitter.com/teamasahina)!
 
