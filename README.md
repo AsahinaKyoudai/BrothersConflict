@@ -12,6 +12,18 @@ This fan localization patch is for the PS Vita version of the game.
 
 **Game Opening Videos (Youtube)**: [Passion Pink](https://www.youtube.com/watch?v=6Cfo2JJ75PI) | [Brilliant Blue](https://www.youtube.com/watch?v=SrsZ8twFrRE)
 
+### PLEASE NOTE THE BELOW
+
+#### BUGS 😔
+
+* **There is still one major bug with Kaname's route where the translations for the overnight stay events do not show up. As we were unable to fix this bug, we will be releasing scripts for the overnight stay events. The scripts will be added soon!**
+* **Event names either show up in Japanese or do not show up at all. Unfortunately, translating them caused some events not to trigger.**
+
+#### QA / Error Submission
+
+* Many contributors have worked on this project throughout the years. The project was revived about two years ago, and since then, our Japanese and English proofreaders have been diligently scrubbing through all scripts to ensure an accurate and consistent translation. As such, some scripts have been heavily edited from the original translations in our patch. Our team has also translated the remainder of the Passion Pink and Brilliant Blue scripts.
+* This is a fan localization done by passionate volunteers. Although our team did a second proofread of all existing scripts and even retranslated some, we were unable to do Japanese proofreading for every single script due to bandwidth, especially for the Passion Pink scripts by Passion & Brilliance. Please be patient with us if you do spot any issues, and we hope you contribute to this patch by reporting the errors through our **Error Submission Form** *(link to be added soon)*!
+
 ### Credits
 
 This project could not have been possible without everyone's hard work and support.
@@ -37,6 +49,8 @@ Here are some other ways to enjoy the series!
 - There is an [anime adaptation](https://www.funimation.com/shows/brothers-conflict/) that has been localized!
 - There are many [manga adaptations](https://www.amazon.co.jp/s?i=digital-text&rh=p_27%3A%E3%82%A6%E3%83%80%E3%82%B8%E3%83%A7) and [drama CDs](https://www.amazon.co.jp/s?k=%E3%83%89%E3%83%A9%E3%83%9ECD+BROTHERS+CONFLICT) available as well.
 - There is a [manga series](https://www.amazon.co.jp/dp/B07BHYGHL1) in the same universe called Fortissimo, which has an [otome game adaptation (PS Vita)](https://vndb.org/v18212). Fuuto makes an appearance in the series.
+
+# GAME INFORMATION
 
 ## STORY
 
@@ -76,9 +90,7 @@ Height: 179 cm
 > I'm actually a doctor. I specialize in pediatrics though.
 
 The oldest son of the Asahina family.<br/>
-朝日奈家の長男。
-優しく穏やかな人柄で、キレたり怒ったりすることはめったにない。
-基本的にのんびりしている。
+He is a kind, gentle, and carefree man that rarely gets angry.
 
 ![Cover](image/profile_ukyo.jpg)<br/>
 **Ukyo** (VA: Daisuke Hirakawa)<br/>
@@ -90,11 +102,9 @@ Height: 182 cm
 
 > If you run into any issues, please let me know right away. I will help you out.
 
-description<br/>
-description
-しっかり者の次男。
-常に冷静できびきびとしている。
-兄弟の世話をやくことが多く、母親的存在でもある。
+The dependable second son of the Asabina family.<br/>
+He is always composed but can be direct and to the point.<br/>
+He often looks over the brothers and has a motherly prescence.
 
 ![Cover](image/profile_kaname.jpg)<br/>
 **Kaname** (VA: Junichi Suwabe)<br/>
@@ -106,11 +116,9 @@ Height: 185 cm
 
 > You're so cute, Little Sis~♪ Next time, can I kiss you somewhere other than your hand?
 
-description<br/>
-description
-破天荒なお坊さん。
-とにかく無類の女好きで、生き様がホスト。
-独自の解釈による「ありがたいお話」を聞きたがる女性が後を絶たない。
+Not your typical monk.<br/>
+His love for women is unparalleled, and he acts like he's from a host club.<br/>
+There's an endless line of women that would love one of his one-on-one "Dharma talks" with his own unique intrepretation.
 
 ![Cover](image/profile_hikaru.jpg)<br/>
 **Hikaru** (VA: Nobuhiko Okamoto)<br/>
@@ -135,12 +143,9 @@ Height: 176 cm
 
 > That got me so excited! Hey, can I hug you one more time?
 
-description<br/>
-description
-梓とセットで売り出し中の若手声優。
-シニカルな態度・言動を取ることが多く、常に飄々としているが、
-実は真面目な面もあり、特に仕事に対しては努力家で誠実。
-誰よりも弟（梓）が好き。
+A young voice actor that is marketed along with Azusa as a pair.<br/>
+He's often cynical and always acts easygoing, but he also has a serious side and is very hardworking and sincere when it comes to his job.<br/>
+He loves his younger brother (Azusa) more than anyone else.
 
 ![Cover](image/profile_azusa.jpg)<br/>
 **Azusa** (VA: Kosuke Toriumi)<br/>
@@ -152,11 +157,9 @@ Height: 176 cm
 
 > If Tsubaki ever bothers you again, let me know. I'll put him in check.
 
-description<br/>
-description
-人気急上昇中の若手声優。寡黙でクール。
-なんでもすぐできるぶん、飽きるのも早く物事に執着心がない。
-誰よりも兄（椿）が好き。
+A young voice actor that has gained sudden popularity. He is quiet and calm.<br/>
+He can excel in anything quickly, so he loses interest in things quickly and doesn't feel attached to anything in particular.<br/>
+He loves his older brother (Tsubaki) more than anyone else.
 
 ![Cover](image/profile_natsume.jpg)<br/>
 **Natsume** (VA: Tomoaki Maeno)<br/>
@@ -170,8 +173,8 @@ Height: 176 cm
 
 description<br/>
 description
-椿＆梓とは三つ子の兄弟で、棗だけは二卵性。
-ぶっきらぼうな言動が多い一匹狼タイプで、現在は家族と離れて一人暮らしをしている。
+Triplets with Tsubaki and Azusa, though Tsubaki and Azusa are identical twins while he is the only fraternal one.<br/>
+He's usually blunt and acts like a lone wolf. He currently lives alone, away from the rest of his family.
 
 ![Cover](image/profile_louis.jpg)<br/>
 **Louis** (VA: Ken Takeuchi)<br/>
@@ -285,7 +288,57 @@ He and Yusuke are rivals since he secretly likes the protagonist as well.
 
 ### SYSTEM
 
+#### Gameplay
 
+The game takes place over one year.
+
+You can change the protagonist's first name. Her default name is Ema Asahina. You can input up to 3 characters.
+
+You can choose between the Passion Pink and Brilliant Blue games on the title screen.
+
+![Game Selection](image/system_gameselection.jpg)
+
+#### Events
+
+Certain events will only occur if the character is a love interest in that game.
+
+There are events with multiple siblings as well. These events require both character affection AND family affection. Some events occur in both games, while others only occur in one of the two games.
+
+Choices can increase either character affection or family affection.
+
+#### Weekly Schedule
+
+In addition to the story and brother events, there's also a simulation system where you can raise affection, earn money, go shopping, and reduce your fatigue.
+
+You have to set your schedule every week. You can choose to spend time with the whole family (increase family affection), with one specific character (increase character affection), or by yourself. Additional activities can be selected on weekends and holidays (i.e., dates, overnight stays, shopping).
+
+![Schedule](image/system_schedule.jpg)
+
+#### Dates
+
+You can choose to go on a date on your days off.
+
+##### Character Date
+
+You can visit your brother's room and invite him on a date. If he accepts, then you can choose to go to the aquarium, zoo, amusement park, shopping mall, movie theater, or park. After a period of time, you'll be able to select his room as a date spot as well.
+
+You'll be given a choice during each date. His affection level may change depending on your answer.
+
+![Date](image/system_date.jpg)
+
+##### Family Date
+
+You can go on a date with the whole family. The characters that appear are random and may depend on who the love interests are in the version you're playing.
+
+Similar to the character dates, you can pick between 6 locations. You will also be given a choice during each date. Family affection may change depending on your answer.
+
+#### Overnight Stay
+
+Once certain conditions are met, you'll be able to stay overnight at one of your brother's rooms on your days off. The characters you can visit depend on who the love interests are for the version you are playing.
+
+When you go to your brother's room, you'll see his mood in the upper left hand corner. Choose between four emotional expressions after considering the brother's personality and his words in order to get him to agree to you staying over! The gauge on the right will increase as you select the correct responses. If you succeed, then you'll be able to view the overnight stay event (the conversation will change depending on affection level). 
+
+![Overnight Stay](image/system_overnightstay.jpg)
 
 ### MUSIC
 
