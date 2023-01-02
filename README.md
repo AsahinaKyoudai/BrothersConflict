@@ -30,7 +30,7 @@ Here is our current list of FAQ questions! We will keep adding to the FAQ list h
 
 #### What do I need to play the game?
 
-* A hacked PS Vita with sufficient storage space for the patch (~350 MB)
+* A hacked PS Vita with sufficient storage space for the patch (~3 GB)
 * A copy of the game (**PS Vita version only**)
 * A Vita-compatible micro USB cable
 * A computer/laptop for uploading the patch
