@@ -53,7 +53,7 @@ _Although there is a Nintendo Switch version of Brothers Conflict: Precious Baby
 #### Will a walkthrough be available?
 We have a detailed walkthrough that we put together for our beta testers that was a translation of a Japanese walkthrough. This is available upon request, but may have some slight differences in-game. If there is enough demand, then we may clean up this copy and release it, or we may consider creating a more general guide.
 
-We highly recommend that you check out the character profiles in-game for tips on favorite foods/activities and any other brothers that you may need to build a relationship with! Juli's advice on each profile will change throughout the route as well.
+We highly recommend that you check out the brother profiles in-game for tips on favorite foods/activities and any other brothers that you may need to build a relationship with! Juli's advice on each profile will change throughout the route as well.
 
 We highly encourage walkthroughs if anyone would like to create one in English! If anyone has any questions about routes, game mechanics, etc, then feel free to reach out to us on [**Twitter**](https://twitter.com/TeamAsahina)!
 
@@ -335,17 +335,17 @@ You can choose between the Passion Pink and Brilliant Blue games on the title sc
 
 #### Events
 
-Certain events will only occur if the character is a love interest in that game.
+Certain events will only occur if the brother is a love interest in that game.
 
-There are events with multiple siblings as well. These events require both character affection AND family affection. Some events occur in both games, while others only occur in one of the two games.
+There are events with multiple siblings as well. These events require both brother affection AND family affection. Some events occur in both games, while others only occur in one of the two games.
 
-Choices can increase either character affection or family affection.
+Choices can increase either brother affection or family affection.
 
 #### Weekly Schedule
 
 In addition to the story and brother events, there's also a simulation system where you can raise affection, earn money, go shopping, and reduce your fatigue.
 
-You have to set your schedule every week. You can choose to spend time with the whole family (increase family affection), with one specific character (increase character affection), or by yourself. Additional activities can be selected on weekends and holidays (i.e., dates, overnight stays, shopping).
+You have to set your schedule every week. You can choose to spend time with the whole family (increase family affection), with one specific brother (increase brother affection), or by yourself. Additional activities can be selected on weekends and holidays (i.e., dates, overnight stays, shopping).
 
 ![Schedule](image/system_schedule.jpg)
 
@@ -353,7 +353,7 @@ You have to set your schedule every week. You can choose to spend time with the 
 
 You can choose to go on a date on your days off.
 
-##### Character Date
+##### Brother Date
 
 You can visit your brother's room and invite him on a date. If he accepts, then you can choose to go to the aquarium, zoo, amusement park, shopping mall, movie theater, or park. After a period of time, you'll be able to select his room as a date spot as well.
 
@@ -363,13 +363,13 @@ You'll be given a choice during each date. His affection level may change depend
 
 ##### Family Date
 
-You can go on a date with the whole family. The characters that appear are random and may depend on who the love interests are in the version you're playing.
+You can go on a date with the whole family. The brothers that appear are random and may depend on who the love interests are in the version you're playing.
 
-Similar to the character dates, you can pick between 6 locations. You will also be given a choice during each date. Family affection may change depending on your answer.
+Similar to the brother dates, you can pick between 6 locations. You will also be given a choice during each date. Family affection may change depending on your answer.
 
 #### Overnight Stay
 
-Once certain conditions are met, you'll be able to stay overnight at one of your brother's rooms on your days off. The characters you can visit depend on who the love interests are for the version you are playing.
+Once certain conditions are met, you'll be able to stay overnight at one of your brother's rooms on your days off. The brothers you can visit depend on who the love interests are for the version you are playing.
 
 When you go to your brother's room, you'll see his mood in the upper left hand corner. Choose between four emotional expressions after considering the brother's personality and his words in order to get him to agree to you staying over! The gauge on the right will increase as you select the correct responses. If you succeed, then you'll be able to view the overnight stay event (the conversation will change depending on affection level). 
 
