@@ -69,7 +69,7 @@ This project could not have been possible without everyone's hard work and suppo
 **TL**: Jennifer, jaosy, [Jokertrap-ran](https://jokertrap-ran.tumblr.com/), Kaze, nids, Skye, [Passion & Brilliance](https://passionandbrilliance.tumblr.com/)<br/>
 **PR**: dia, kuririn, 507, glowingbutterfly, Juju, Lyla Snowlocke<br/>
 **Graphics**: Tomatouji, yuugs, Jennifer, jaosy<br/>
-**Closed Beta Testing**: Cliffy, kuririn, Jennifer, nat *(more to credit, just waiting on name confirmations!)*<br/>
+**Closed Beta Testing**: kuririn, Jennifer, nat, Rin *(more to credit, just waiting on name confirmations!)*<br/>
 **Tech Support**: [[DC]](https://ko-fi.com/0xdc00)
 
 **Special Thanks**
