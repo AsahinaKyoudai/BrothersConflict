@@ -4,7 +4,7 @@
 
 **Brothers Conflict: Precious Baby** is an otome game developed by Otomate that was first released on PS Vita on 4/7/2016. It combines both Passion Pink and Brilliant Blue, which were previously released on PSP on 5/17/2012 and 9/12/2013 respectively. It has since been ported to the Switch on 8/29/2019.
 
-**Brilliant Blue**: Ukyo, Azusa, Louis, Iori, Wataru, Natsume & Juli Routes<br/>
+**Brilliant Blue**: Ukyo, Azusa, Louis, Iori, Wataru & Natsume Routes<br/>
 **Passion Pink**: Masaomi, Kaname, Hikaru, Tsubaki, Subaru, Yusuke & Fuuto Routes<br/>
 *There are some secret routes/endings as well!*
 
