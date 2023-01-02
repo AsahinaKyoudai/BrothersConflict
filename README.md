@@ -138,7 +138,7 @@ Height: 182 cm
 
 > If you run into any issues, please let me know right away. I will help you out.
 
-The dependable second son of the Asabina family.<br/>
+The dependable second son of the Asahina family.<br/>
 He is always composed but can be direct and to the point.<br/>
 He often looks over the brothers and has a motherly prescence.
 
