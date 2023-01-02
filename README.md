@@ -34,6 +34,7 @@ Here is our current list of FAQ questions! We will keep adding to the FAQ list h
 
 * A hacked PS Vita with sufficient storage space for the patch (~3 GB)
 * A copy of the game (**PS Vita version only**)
+* A copy of the patch **(Please refer back to this GitHub repository for the latest version.)**
 * A Vita-compatible micro USB cable
 * A computer/laptop for uploading the patch
 
