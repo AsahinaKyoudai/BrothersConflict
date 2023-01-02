@@ -21,7 +21,7 @@ This fan localization patch is for the PS Vita version of the game.
 
 #### QA / Error Submission
 
-* Many contributors have worked on this project throughout the years. The project was revived about two years ago, and since then, our Japanese and English proofreaders have been diligently scrubbing through all scripts to ensure an accurate and consistent translation. As such, some scripts have been heavily edited from the original translations in our patch. Our team has also translated the remainder of the Passion Pink and Brilliant Blue scripts.
+* Many contributors have worked on this project throughout the years. The project was revived about two years ago, and since then, our Japanese and English proofreaders have been diligently scrubbing through all scripts to ensure an accurate and consistent translation. As such, some scripts have been heavily edited from the original translations. Our team has also translated the remainder of the Passion Pink and Brilliant Blue scripts.
 * This is a fan localization done by passionate volunteers. Although our team did a second proofread of all existing scripts and even retranslated some, we were unable to do Japanese proofreading for every single script due to bandwidth, especially for the Passion Pink scripts by [**Passion & Brilliance**](https://passionandbrilliance.tumblr.com/).
 * Please be patient with us if you do spot any issues, and we hope you contribute to this patch by reporting the errors through our [**Error Submission Form**](https://forms.gle/3QtQBDKY1bXoJFvf8)!
 *Please note that you must have a Google account to access this form due to Google requirements on image uploads.*
@@ -63,7 +63,7 @@ Not at this time. However, we may consider publishing text translations for Bril
 
 ### Credits
 
-This project could not have been possible without everyone's hard work and support.
+This project could not have been possible without everyone's hard work and support!
 
 **TL**: Jennifer, [Jokertrap-ran](https://jokertrap-ran.tumblr.com/), jaosy, Kaze, nids, Skye, [Passion & Brilliance](https://passionandbrilliance.tumblr.com/)<br/>
 **PR**: 507, dia, glowingbutterfly, Lyla Snowlocke, Juju, kuririn<br/>
