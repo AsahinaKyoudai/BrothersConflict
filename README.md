@@ -207,8 +207,6 @@ Height: 176 cm
 
 > ...Who are you? A stranger shouldn't call someone by their first name so casually.
 
-description<br/>
-description
 Triplets with Tsubaki and Azusa, though Tsubaki and Azusa are identical twins while he is the only fraternal one.<br/>
 He's usually blunt and acts like a lone wolf. He currently lives alone, away from the rest of his family.
 
