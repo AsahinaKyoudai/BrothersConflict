@@ -17,7 +17,7 @@ This fan localization patch is for the PS Vita version of the game.
 #### BUGS 😔
 
 * **There is still one major bug with Kaname's route where some of the translations for the overnight stay events do not show up. As we were unable to fix this bug, we will be releasing scripts for the overnight stay events. The scripts can be accessed [here](https://github.com/AsahinaKyoudai/BrothersConflict/blob/c84701d25b869cf8f742c69abdc7fea68a4ed63d/Kaname_Overnight%20Stay%20Scripts_20220101.pdf).**
-* The keyboard on the name input screen is not functioning at the moment. Please use Ema (the default name).
+* **The keyboard on the name input screen is not functioning at the moment. Please use Ema (the default name). We will attempt to fix this mid January. Alternatively, there is a hidden English menu two spaces below the U! We will provide an image soon.**
 * **Event names either show up in Japanese or do not show up at all. Unfortunately, translating them caused some events not to trigger.**
 
 #### QA / Error Submission
