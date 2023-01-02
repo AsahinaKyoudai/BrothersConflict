@@ -2,7 +2,7 @@
 
 ![Cover](image/readme_main.jpg)
 
-**Brothers Conflict: Precious Baby** is an otome game developed by Otomate that was first released on PS Vita on 4/7/2016. It combines both Passion Pink and Brilliant Blue, which were previously released on PSP on 5/17/2012 and 9/12/2013 respectively. It has since been ported to the Switch on 8/29/2019.
+**Brothers Conflict: Precious Baby** is an otome game developed by Otomate that was first released on PS Vita on 4/7/2016. It combines both Passion Pink and Brilliant Blue, which were previously released on PSP on 5/17/2012 and 9/12/2013 respectively. It has since been ported to the Nintendo Switch on 8/29/2019.
 
 **Brilliant Blue**: Ukyo, Azusa, Louis, Iori, Wataru & Natsume Routes<br/>
 **Passion Pink**: Masaomi, Kaname, Hikaru, Tsubaki, Subaru, Yusuke & Fuuto Routes<br/>
@@ -22,7 +22,7 @@ This fan localization patch is for the PS Vita version of the game.
 #### QA / Error Submission
 
 * Many contributors have worked on this project throughout the years. The project was revived about two years ago, and since then, our Japanese and English proofreaders have been diligently scrubbing through all scripts to ensure an accurate and consistent translation. As such, some scripts have been heavily edited from the original translations in our patch. Our team has also translated the remainder of the Passion Pink and Brilliant Blue scripts.
-* This is a fan localization done by passionate volunteers. Although our team did a second proofread of all existing scripts and even retranslated some, we were unable to do Japanese proofreading for every single script due to bandwidth, especially for the Passion Pink scripts by Passion & Brilliance.
+* This is a fan localization done by passionate volunteers. Although our team did a second proofread of all existing scripts and even retranslated some, we were unable to do Japanese proofreading for every single script due to bandwidth, especially for the Passion Pink scripts by [Passion & Brilliance](https://passionandbrilliance.tumblr.com/).
 * Please be patient with us if you do spot any issues, and we hope you contribute to this patch by reporting the errors through our [**Error Submission Form**](https://forms.gle/3QtQBDKY1bXoJFvf8)!
 *Please note that you must have a Google account to access this form due to Google requirements on image uploads.*
 
