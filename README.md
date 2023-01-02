@@ -50,7 +50,7 @@ Instructions on how to patch a PC Vita game can be found [**here**](https://docs
 *¹ Can be either physical or digital. If you are using a sd2vita memory card adapter rather than an official PS Vita memory card, you will be unable to use a physical game card.*
 
 #### Will a walkthrough be available?
-We have a detailed walkthrough that we put together for our beta testers that was a translation of a Japanese walkthrough. This is available upon request, but may have some slight differences in-game. If there is enough demand, then we may clean up this copy and release it, or we may consider created a more general guide.
+We have a detailed walkthrough that we put together for our beta testers that was a translation of a Japanese walkthrough. This is available upon request, but may have some slight differences in-game. If there is enough demand, then we may clean up this copy and release it, or we may consider creating a more general guide.
 
 We highly recommend that you check out the character profiles in-game for tips on favorite foods/activities and any other brothers that you may need to build a relationship with! Juli's advice on each profile will change throughout the route as well.
 
