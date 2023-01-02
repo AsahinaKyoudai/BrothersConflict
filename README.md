@@ -46,7 +46,7 @@ Please note that modding your PS Vita comes with the risk of permanently brickin
 
 Instructions on how to patch a PS Vita game can be found [**here**](https://docs.google.com/document/d/144LNdl8hE2pPmQPyma3l8BSF_47ezorE/edit?usp=sharing&ouid=111035187415794645473&rtpof=true&sd=true).
 
-_Although there is a Nintendo Switch version of Brothers Conflict: Precious Baby, we will only release a patch for the PS Vita version._
+##### Although there is a Nintendo Switch version of Brothers Conflict: Precious Baby, we will only release a patch for the PS Vita version.
 
 *¹ Can be either physical or digital. If you are using a sd2vita memory card adapter rather than an official PS Vita memory card, you will be unable to use a physical game card.*
 
