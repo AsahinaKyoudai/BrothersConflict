@@ -65,10 +65,10 @@ Not at this time. However, we may consider publishing text translations for Bril
 
 This project could not have been possible without everyone's hard work and support!
 
-**TL**: Jennifer, [Jokertrap-ran](https://jokertrap-ran.tumblr.com/), jaosy, Kaze, nids, Skye, [Passion & Brilliance](https://passionandbrilliance.tumblr.com/)<br/>
-**PR**: 507, dia, glowingbutterfly, Lyla Snowlocke, Juju, kuririn<br/>
-**Graphics**: jaosy, Jennifer, Tomatouji, yuugs<br/>
-**Closed Beta Testing**: Jennifer, kuririn, nat *(more to credit, just waiting on name confirmations!)*<br/>
+**TL**: Jennifer, jaosy, [Jokertrap-ran](https://jokertrap-ran.tumblr.com/), Kaze, nids, Skye, [Passion & Brilliance](https://passionandbrilliance.tumblr.com/)<br/>
+**PR**: dia, kuririn, 507, glowingbutterfly, Juju, Lyla Snowlocke<br/>
+**Graphics**: Tomatouji, yuugs, Jennifer, jaosy<br/>
+**Closed Beta Testing**: kuririn, Jennifer, nat *(more to credit, just waiting on name confirmations!)*<br/>
 **Tech Support**: [[DC]](https://ko-fi.com/0xdc00)
 
 **Special Thanks**
