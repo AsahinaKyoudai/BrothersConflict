@@ -43,7 +43,7 @@ Our patch can only be played with a modded PS Vita and a copy of Brothers Confli
 
 Please note that modding your PS Vita comes with the risk of permanently bricking your device during the process. Although rare, you should understand all risks involved before proceeding and be sure to follow all instructions exactly. Under no circumstances will Otogelib or its community be held responsible or liable in any way for any damages to your device as a result of your own actions.
 
-Instructions on how to patch a PC Vita game can be found [**here**](https://docs.google.com/document/d/144LNdl8hE2pPmQPyma3l8BSF_47ezorE/edit?usp=sharing&ouid=111035187415794645473&rtpof=true&sd=true).
+Instructions on how to patch a PS Vita game can be found [**here**](https://docs.google.com/document/d/144LNdl8hE2pPmQPyma3l8BSF_47ezorE/edit?usp=sharing&ouid=111035187415794645473&rtpof=true&sd=true).
 
 **Although there is a Nintendo Switch version of Brothers Conflict: Precious Baby, we will only release a patch for the PS Vita version.**
 
