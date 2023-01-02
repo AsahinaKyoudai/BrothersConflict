@@ -40,7 +40,7 @@ Here is our current list of FAQ questions! We will keep adding to the FAQ list h
 
 #### How does the patch work?
 
-Our patch can only be played with a modded PS Vita and a copy of Brothers Conflict: Precious Baby¹. You may choose to purchase a device that is already modded, or you can follow a guide for an unmodded device, such as this [PS Vita (TV) Hacks Guide](https://vita.hacks.guide/) or this [Reddit post + guide on VitaDeploy](https://www.reddit.com/r/vitahacks/comments/meg7sp/release_vitadeploy_a_toolbox_that_makes/).
+Our patch can only be played with a modded PS Vita and a copy of **Brothers Conflict: Precious Baby**¹. You may choose to purchase a device that is already modded, or you can follow a guide for an unmodded device, such as this [PS Vita (TV) Hacks Guide](https://vita.hacks.guide/) or this [Reddit post + guide on VitaDeploy](https://www.reddit.com/r/vitahacks/comments/meg7sp/release_vitadeploy_a_toolbox_that_makes/).
 
 Please note that modding your PS Vita comes with the risk of permanently bricking your device during the process. Although rare, you should understand all risks involved before proceeding and be sure to follow all instructions exactly. Under no circumstances will Otogelib or its community be held responsible or liable in any way for any damages to your device as a result of your own actions.
 
