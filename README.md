@@ -26,7 +26,7 @@ This fan localization patch is for the PS Vita version of the game.
 
 ### FAQ
 
-Here is our current list of FAQ questions! We will keep adding to the FAQ list here as we get more inquiries about the project.
+Here is our current list of FAQ questions! We will keep adding to the FAQ list here as we get more inquiries about the patch.
 
 #### What do I need to play the game?
 
@@ -37,9 +37,11 @@ Here is our current list of FAQ questions! We will keep adding to the FAQ list h
 
 #### How does the patch work?
 
-Our patch can only be played with a modded PS Vita and a copy of Brothers Conflict: Precious Baby¹. You may choose to purchase a device that is already modded, or you can follow a guide for an unmodded device, such as this PS Vita (TV) Hacks Guide or this Reddit post + guide on VitaDeploy.
+Our patch can only be played with a modded PS Vita and a copy of Brothers Conflict: Precious Baby¹. You may choose to purchase a device that is already modded, or you can follow a guide for an unmodded device, such as this [PS Vita (TV) Hacks Guide](https://vita.hacks.guide/) or this [Reddit post + guide on VitaDeploy](https://www.reddit.com/r/vitahacks/comments/meg7sp/release_vitadeploy_a_toolbox_that_makes/).
 
 Please note that modding your PS Vita comes with the risk of permanently bricking your device during the process. Although rare, you should understand all risks involved before proceeding and be sure to follow all instructions exactly. Under no circumstances will Otogelib or its community be held responsible or liable in any way for any damages to your device as a result of your own actions.
+
+Instructions on how to patch a PC Vita game can be found [**here**](https://docs.google.com/document/d/144LNdl8hE2pPmQPyma3l8BSF_47ezorE/edit?usp=sharing&ouid=111035187415794645473&rtpof=true&sd=true).
 
 **Although there is a Nintendo Switch version of Brothers Conflict: Precious Baby, we will only release a patch for the PS Vita version.**
 
