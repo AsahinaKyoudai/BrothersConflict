@@ -277,7 +277,7 @@ Height: 168 cm
 
 He's a very popular idol that's all over TV.<br/>
 Since he has to juggle both work and school, he is rarely at home.<br/>
-He's a cheeky and impudent.
+He's cheeky and impudent.
 
 ![Cover](image/profile_wataru.jpg)<br/>
 **Wataru** (VA: Yuki Kaji)<br/>
@@ -315,7 +315,7 @@ She calls the protagonist "Hina" because of her former surname "Hinata".
 **Kazuma Sasakura** (VA: Kazunori Nomiya)<br/>
 
 Classmates with Mahoko and the protagonist.<br/>
-He and Yusuke are rivals since he secretly likes the protagonist as well.
+He and Yusuke are rivals since he secretly crushes on the protagonist as well.
 
 ### GALLERY
 
