@@ -142,7 +142,7 @@ Height: 182 cm
 
 The dependable second son of the Asahina family.<br/>
 He is always composed but can be direct and to the point.<br/>
-He often looks over the brothers and has a motherly prescence.
+He often looks over the brothers and has a motherly presence.
 
 ![Cover](image/profile_kaname.jpg)<br/>
 **Kaname** (VA: Junichi Suwabe)<br/>
