@@ -52,7 +52,7 @@ Instructions on how to patch a PS Vita game can be found [**here**](https://docs
 *¹ Can be either physical or digital. If you are using a sd2vita memory card adapter rather than an official PS Vita memory card, you will be unable to use a physical game card.*
 
 #### Will a walkthrough be available?
-We have a detailed walkthrough that we put together for our beta testers that was a translation of a [**Japanese walkthrough by choro**](https://choro-game.com/blog-entry-1477.html). You can find the translated guide [**here**](https://docs.google.com/spreadsheets/u/5/d/1SSmsBtCPeCWOuTN2cmU0NEf_ZE3phutWl_wjTqtGpK8/edit). Please note that it may have some slight differences in-game. If there is enough demand, then we may clean up this copy and release it, or we may consider creating a more general guide.
+We have a detailed walkthrough that we put together for our beta testers that was a translation of a [**Japanese walkthrough by choro**](https://choro-game.com/blog-entry-1477.html). You can find the translated guide [**here**](https://docs.google.com/spreadsheets/u/5/d/1SSmsBtCPeCWOuTN2cmU0NEf_ZE3phutWl_wjTqtGpK8/edit). Please note that it may have some slight differences in-game.
 
 We highly recommend that you check out the brother profiles in-game for tips on favorite foods/activities and any other brothers that you may need to build a relationship with! Juli's advice on each profile will change throughout the route as well.
 
@@ -69,7 +69,7 @@ This project could not have been possible without everyone's hard work and suppo
 **TL**: Jennifer, jaosy, [Jokertrap-ran](https://jokertrap-ran.tumblr.com/), Kaze, nids, Skye, [Passion & Brilliance](https://passionandbrilliance.tumblr.com/)<br/>
 **PR**: dia, kuririn, 507, glowingbutterfly, Juju, Lyla Snowlocke<br/>
 **Graphics**: Tomatouji, yuugs, Jennifer, jaosy<br/>
-**Closed Beta Testing**: kuririn, Jennifer, nat, Rin *(more to credit, just waiting on name confirmations!)*<br/>
+**Closed Beta Testing**: kuririn, Jennifer, nat, Rin<br/>
 **Tech Support**: [[DC]](https://ko-fi.com/0xdc00)
 
 **Special Thanks**
@@ -78,6 +78,8 @@ This project could not have been possible without everyone's hard work and suppo
 * The otome community for your excitement, support, and patience!
 
 If you've contributed to at least one full script and haven't been credited, then please DM us on [**Twitter**](https://twitter.com/teamasahina)!
+
+##### Please note that Team Asahina is not affliated with any other groups. This was a passion project that was revived and brought to fruition by a new team, with permission from previous contributors.
 
 ### More BroCon!
 
